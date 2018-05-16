@@ -1,4 +1,3 @@
-package insertionsort;
 
 import java.util.Arrays;
 
